@@ -1,0 +1,3 @@
+download the model
+
+https://huggingface.co/motherduckdb/DuckDB-NSQL-7B-v0.1-GGUF/tree/main
